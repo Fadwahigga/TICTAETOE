@@ -1,12 +1,14 @@
 # tictactoe
 
+https://user-images.githubusercontent.com/75944731/175769023-27e59ebd-7cd9-42e3-9f41-15859cf4a1bd.mp4
+
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-https://user-images.githubusercontent.com/75944731/175769023-27e59ebd-7cd9-42e3-9f41-15859cf4a1bd.mp4
+
 
 A few resources to get you started if this is your first Flutter project:
 
